@@ -1,9 +1,3 @@
-/*let sources = ["https://images.hepsiburada.net/banners/s/0/672-378/bannerImage2106_20210531120758.png/format:webp",
-    "https://images.hepsiburada.net/banners/s/0/672-378/bannerImage2138_20210729151500.png/format:webp",
-    "https://images.hepsiburada.net/banners/s/0/672-378/bannerImage2087_20210527101722.png/format:webp",
-    "https://images.hepsiburada.net/banners/s/0/672-378/bannerImage2120_20210730172127.png/format:webp",
-    "https://images.hepsiburada.net/banners/s/0/672-378/bannerImage2088_20200911202947.png/format:webp"];*/
-//let backgroundColor = document.getElementsByClassName("slide");
 
 
 const nextButton = document.getElementById("next-button");
